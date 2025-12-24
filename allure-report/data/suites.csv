@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3045","Login Test positive","chromium","2025-11-30","passed","2025-11-30","","Logintest.spec.js","",""
+"","4","Create Employee test","","2025-11-30","skipped","2025-11-30","","CreateEmployee.spec.js","",""
+"","2916","Login Test positive","","2025-11-30","passed","2025-11-30","","Logintest.spec.js","",""
+"","2665","Login Test negative","chromium","2025-11-30","passed","2025-11-30","","Logintest.spec.js","",""
+"","4","Create Employee test","chromium","2025-11-30","skipped","2025-11-30","","CreateEmployee.spec.js","",""
+"","3018","Login Test negative","","2025-11-30","passed","2025-11-30","","Logintest.spec.js","",""

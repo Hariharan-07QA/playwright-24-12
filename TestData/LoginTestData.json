@@ -1,0 +1,21 @@
+{
+"base_url":"https://www.qaplayground.com/bank",
+"cred":[
+  
+    {
+    "username":"admin",
+    "password":"admin123",
+    "useCase" :"positive"
+},
+{
+    "username":"invalid",
+    "password":"invalid123",
+    "useCase" :"negative"
+}
+],
+"valid_cred":{
+    "username":"admin",
+    "password":"admin123",
+    "useCase" :"positive"
+}
+}

@@ -1,0 +1,90 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - link "QA PlayGround" [ref=e4] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e5]:
+          - img [ref=e6]
+          - generic [ref=e7]: QA PlayGround
+      - generic [ref=e8]:
+        - link "Home" [ref=e9] [cursor=pointer]:
+          - /url: /
+          - button "Home" [ref=e10]
+        - link "Blog" [ref=e11] [cursor=pointer]:
+          - /url: /blog
+          - button "Blog" [ref=e12]
+        - link "Contact" [ref=e13] [cursor=pointer]:
+          - /url: /contact-us
+          - button "Contact" [ref=e14]
+        - link "Bank" [ref=e15] [cursor=pointer]:
+          - /url: /bank
+          - button "Bank" [ref=e16]
+        - link "Practice" [ref=e17] [cursor=pointer]:
+          - /url: /practice
+          - button "Practice" [ref=e18]
+        - button "Toggle theme" [ref=e19] [cursor=pointer]:
+          - img
+          - generic [ref=e20]: Toggle theme
+  - main [ref=e21]:
+    - generic [ref=e24]:
+      - generic [ref=e25]:
+        - generic [ref=e26]:
+          - img [ref=e29]
+          - generic [ref=e33]: SecureBank Demo
+          - generic [ref=e34]: Automation Testing Practice Application
+        - generic [ref=e37]:
+          - generic [ref=e38]:
+            - text: Username
+            - textbox "Username" [ref=e39]:
+              - /placeholder: Enter your username
+              - text: invalid
+          - generic [ref=e40]:
+            - text: Password
+            - generic [ref=e41]:
+              - textbox "Password" [ref=e42]:
+                - /placeholder: Enter your password
+                - text: invalid123
+              - button [ref=e43] [cursor=pointer]:
+                - img
+          - generic [ref=e44]:
+            - checkbox "Remember me" [ref=e45] [cursor=pointer]
+            - checkbox
+            - generic [ref=e46] [cursor=pointer]: Remember me
+          - alert [ref=e47]:
+            - generic [ref=e48]: ⚠️ Invalid username or password. Please try again.
+          - generic [ref=e49]:
+            - button "Login" [active] [ref=e50] [cursor=pointer]
+            - button "Clear" [ref=e51] [cursor=pointer]
+        - generic [ref=e54]:
+          - paragraph [ref=e55]: "Demo Credentials:"
+          - paragraph [ref=e56]:
+            - text: "Username:"
+            - code [ref=e57]: admin
+          - paragraph [ref=e58]:
+            - text: "Password:"
+            - code [ref=e59]: admin123
+      - button [ref=e60] [cursor=pointer]:
+        - img
+  - region "Notifications alt+T"
+  - contentinfo [ref=e61]:
+    - generic [ref=e62]:
+      - generic [ref=e63]:
+        - paragraph [ref=e64]: QA PlayGround by Random Coders
+        - paragraph [ref=e65]: 💡 Helping Test Automation Engineers Excel Through Learning.
+      - generic [ref=e66]:
+        - link "About Us" [ref=e67] [cursor=pointer]:
+          - /url: /about-us
+        - link "Contact Us" [ref=e68] [cursor=pointer]:
+          - /url: /contact-us
+        - link "Privacy Policy" [ref=e69] [cursor=pointer]:
+          - /url: /privacy-policy
+      - generic "Copy Rights Warning" [ref=e70]:
+        - generic [ref=e71]: © 2025 QA Playground.
+        - text: Created by
+        - link "Random Coders" [ref=e72] [cursor=pointer]:
+          - /url: /
+  - alert [ref=e73]
+```
