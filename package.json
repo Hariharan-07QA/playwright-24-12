@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "login_Test":"npx playwright test tests/Logintest.spec.js"
+    "login_Test": "npx playwright test tests/Logintest.spec.js"
   },
   "keywords": [],
   "author": "",
@@ -12,6 +12,6 @@
   "devDependencies": {
     "@playwright/test": "^1.47.0",
     "@types/node": "^22.5.4",
-    "allure-playwright": "^3.4.2"
+    "allure-playwright": "^3.4.3"
   }
 }
