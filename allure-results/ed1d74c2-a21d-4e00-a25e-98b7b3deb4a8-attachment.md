@@ -1,0 +1,111 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - img "adplus-dvertising" [ref=e6] [cursor=pointer]
+    - iframe [ref=e9]:
+      - generic [ref=f5e6]:
+        - generic [ref=f5e8] [cursor=pointer]:
+          - link [ref=f5e10]:
+            - /url: https://clck.mgid.com/ghits/25832592/i/58092114/0/pp/1/20?h=Ir6EbE39jG6I_q0Z59Nx_tVh-i54MyXVzNnt7xl2fQ03_6HViT7p2n4Lp3wcWtM2hbewuqB2QvSU3qvGfaS7ePzZp_SdmgQNbrdN1_rujDBRwo0GNYDJpSJBwoJ4PJa4&rid=3a9e6d30-f069-11f0-90a2-d404e676c2e0&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=q0dDmcOTKmi2&st=330&mp4=1&h2=9wzff96wq924ryHk_jrwXHWYH-RUCLHwy761cwR7jZ3qUd95bTSEBwmXOMB8XK7TopAGu2rzIqOdZsO7DWAjQw**
+          - generic [ref=f5e13]:
+            - link "Diabetes Gone Forever! Do This Before You Sleep" [ref=f5e15]:
+              - /url: https://clck.mgid.com/ghits/25832592/i/58092114/0/pp/1/20?h=Ir6EbE39jG6I_q0Z59Nx_tVh-i54MyXVzNnt7xl2fQ03_6HViT7p2n4Lp3wcWtM2hbewuqB2QvSU3qvGfaS7ePzZp_SdmgQNbrdN1_rujDBRwo0GNYDJpSJBwoJ4PJa4&rid=3a9e6d30-f069-11f0-90a2-d404e676c2e0&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=q0dDmcOTKmi2&st=330&mp4=1&h2=9wzff96wq924ryHk_jrwXHWYH-RUCLHwy761cwR7jZ3qUd95bTSEBwmXOMB8XK7TopAGu2rzIqOdZsO7DWAjQw**
+            - link "Diabetic Support" [ref=f5e17]:
+              - /url: https://clck.mgid.com/ghits/25832592/i/58092114/0/pp/1/20?h=Ir6EbE39jG6I_q0Z59Nx_tVh-i54MyXVzNnt7xl2fQ03_6HViT7p2n4Lp3wcWtM2hbewuqB2QvSU3qvGfaS7ePzZp_SdmgQNbrdN1_rujDBRwo0GNYDJpSJBwoJ4PJa4&rid=3a9e6d30-f069-11f0-90a2-d404e676c2e0&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=q0dDmcOTKmi2&st=330&mp4=1&h2=9wzff96wq924ryHk_jrwXHWYH-RUCLHwy761cwR7jZ3qUd95bTSEBwmXOMB8XK7TopAGu2rzIqOdZsO7DWAjQw**
+        - generic [ref=f5e19] [cursor=pointer]:
+          - link [ref=f5e21]:
+            - /url: https://clck.mgid.com/ghits/25868581/i/58092114/0/pp/2/20?h=Ir6EbE39jG6I_q0Z59Nx_lDTenSh29_Cqz3MZJBAjBSUzs53wMkTqvLLXwL85XVNMAG2J2hBF3tjDqvlLr3-gvzZp_SdmgQNbrdN1_rujDCZH2ei9h9DAFraP1FYHmKd&rid=3a9e6d30-f069-11f0-90a2-d404e676c2e0&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=q0dDmcOTKmi2&st=330&mp4=1&h2=9wzff96wq924ryHk_jrwXHWYH-RUCLHwy761cwR7jZ3qUd95bTSEBwmXOMB8XK7TopAGu2rzIqOdZsO7DWAjQw**
+          - generic [ref=f5e24]:
+            - link "The Herbal Approach People With Diabetes Are Exploring" [ref=f5e26]:
+              - /url: https://clck.mgid.com/ghits/25868581/i/58092114/0/pp/2/20?h=Ir6EbE39jG6I_q0Z59Nx_lDTenSh29_Cqz3MZJBAjBSUzs53wMkTqvLLXwL85XVNMAG2J2hBF3tjDqvlLr3-gvzZp_SdmgQNbrdN1_rujDCZH2ei9h9DAFraP1FYHmKd&rid=3a9e6d30-f069-11f0-90a2-d404e676c2e0&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=q0dDmcOTKmi2&st=330&mp4=1&h2=9wzff96wq924ryHk_jrwXHWYH-RUCLHwy761cwR7jZ3qUd95bTSEBwmXOMB8XK7TopAGu2rzIqOdZsO7DWAjQw**
+            - link "Diabetic Support" [ref=f5e28]:
+              - /url: https://clck.mgid.com/ghits/25868581/i/58092114/0/pp/2/20?h=Ir6EbE39jG6I_q0Z59Nx_lDTenSh29_Cqz3MZJBAjBSUzs53wMkTqvLLXwL85XVNMAG2J2hBF3tjDqvlLr3-gvzZp_SdmgQNbrdN1_rujDCZH2ei9h9DAFraP1FYHmKd&rid=3a9e6d30-f069-11f0-90a2-d404e676c2e0&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=q0dDmcOTKmi2&st=330&mp4=1&h2=9wzff96wq924ryHk_jrwXHWYH-RUCLHwy761cwR7jZ3qUd95bTSEBwmXOMB8XK7TopAGu2rzIqOdZsO7DWAjQw**
+  - generic [ref=e10]:
+    - banner [ref=e11]:
+      - link [ref=e12] [cursor=pointer]:
+        - /url: https://demoqa.com
+        - img [ref=e13]
+    - generic [ref=e16]:
+      - generic [ref=e19]:
+        - generic [ref=e22] [cursor=pointer]:
+          - generic [ref=e23]:
+            - img [ref=e25]
+            - text: Elements
+          - img [ref=e30]
+        - generic [ref=e36] [cursor=pointer]:
+          - generic [ref=e37]:
+            - img [ref=e39]
+            - text: Forms
+          - img [ref=e45]
+        - generic [ref=e49]:
+          - generic [ref=e51] [cursor=pointer]:
+            - generic [ref=e52]:
+              - img [ref=e54]
+              - text: Alerts, Frame & Windows
+            - img [ref=e59]
+          - list [ref=e64]:
+            - listitem [ref=e65] [cursor=pointer]:
+              - img [ref=e66]
+              - generic [ref=e68]: Browser Windows
+            - listitem [ref=e69] [cursor=pointer]:
+              - img [ref=e70]
+              - generic [ref=e72]: Alerts
+            - listitem [ref=e73] [cursor=pointer]:
+              - img [ref=e74]
+              - generic [ref=e76]: Frames
+            - listitem [ref=e77] [cursor=pointer]:
+              - img [ref=e78]
+              - generic [ref=e80]: Nested Frames
+            - listitem [ref=e81] [cursor=pointer]:
+              - img [ref=e82]
+              - generic [ref=e84]: Modal Dialogs
+        - generic [ref=e87] [cursor=pointer]:
+          - generic [ref=e88]:
+            - img [ref=e90]
+            - text: Widgets
+          - img [ref=e95]
+        - generic [ref=e101] [cursor=pointer]:
+          - generic [ref=e102]:
+            - img [ref=e104]
+            - text: Interactions
+          - img [ref=e109]
+        - generic [ref=e115] [cursor=pointer]:
+          - generic [ref=e116]:
+            - img [ref=e118]
+            - text: Book Store Application
+          - img [ref=e123]
+      - generic [ref=e127]:
+        - iframe [ref=e130]:
+          - generic [ref=f12e8] [cursor=pointer]:
+            - link [ref=f12e10]:
+              - /url: https://clck.mgid.com/ghits/25566927/i/58092122/0/pp/1/1?h=lH4ReHej-ZfLNxL9skDVJvDmRv7eg0Z4Fmi3q8advfU57fF7hA4oGvgtTEvYvvuCMAG2J2hBF3tjDqvlLr3-gvzZp_SdmgQNbrdN1_rujDCcTalgqC-4zcwcc13AwXrs&rid=3b3a55d3-f069-11f0-80d2-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&st=330&mp4=1&h2=9wzff96wq924ryHk_jrwXHWYH-RUCLHwy761cwR7jZ20S7QsOb4TyE5H_wq1CwLYBhFSjuUDJVNTGpYms8XYCQ**&muid=q0dDmcOTKmi2
+            - generic [ref=f12e13]:
+              - link "Diabetic Support" [ref=f12e15]:
+                - /url: https://clck.mgid.com/ghits/25566927/i/58092122/0/pp/1/1?h=lH4ReHej-ZfLNxL9skDVJvDmRv7eg0Z4Fmi3q8advfU57fF7hA4oGvgtTEvYvvuCMAG2J2hBF3tjDqvlLr3-gvzZp_SdmgQNbrdN1_rujDCcTalgqC-4zcwcc13AwXrs&rid=3b3a55d3-f069-11f0-80d2-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&st=330&mp4=1&h2=9wzff96wq924ryHk_jrwXHWYH-RUCLHwy761cwR7jZ20S7QsOb4TyE5H_wq1CwLYBhFSjuUDJVNTGpYms8XYCQ**&muid=q0dDmcOTKmi2
+              - link "Since I Found This Blood-Sugar Trick, Life Got Much Easier" [ref=f12e17]:
+                - /url: https://clck.mgid.com/ghits/25566927/i/58092122/0/pp/1/1?h=lH4ReHej-ZfLNxL9skDVJvDmRv7eg0Z4Fmi3q8advfU57fF7hA4oGvgtTEvYvvuCMAG2J2hBF3tjDqvlLr3-gvzZp_SdmgQNbrdN1_rujDCcTalgqC-4zcwcc13AwXrs&rid=3b3a55d3-f069-11f0-80d2-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&st=330&mp4=1&h2=9wzff96wq924ryHk_jrwXHWYH-RUCLHwy761cwR7jZ20S7QsOb4TyE5H_wq1CwLYBhFSjuUDJVNTGpYms8XYCQ**&muid=q0dDmcOTKmi2
+              - link "Learn more→" [ref=f12e19]:
+                - /url: https://clck.mgid.com/ghits/25566927/i/58092122/0/pp/1/1?h=lH4ReHej-ZfLNxL9skDVJvDmRv7eg0Z4Fmi3q8advfU57fF7hA4oGvgtTEvYvvuCMAG2J2hBF3tjDqvlLr3-gvzZp_SdmgQNbrdN1_rujDCcTalgqC-4zcwcc13AwXrs&rid=3b3a55d3-f069-11f0-80d2-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&st=330&mp4=1&h2=9wzff96wq924ryHk_jrwXHWYH-RUCLHwy761cwR7jZ20S7QsOb4TyE5H_wq1CwLYBhFSjuUDJVNTGpYms8XYCQ**&muid=q0dDmcOTKmi2
+        - text: Please select an item from left to start practice.
+      - generic [ref=e136]:
+        - img "Build PlayWright tests with AI" [ref=e138] [cursor=pointer]
+        - iframe [ref=e141]:
+          - generic [ref=f14e7] [cursor=pointer]:
+            - link [ref=f14e8]:
+              - /url: https://clck.mgid.com/ghits/25832600/i/58092113/0/pp/1/1?h=lH4ReHej-ZfLNxL9skDVJqQephaj6NHBzD2HRvD7NDNptjLPqK_vHVWWY0S939XLrfjeeaoF3UDB7HIBjRtuRPzZp_SdmgQNbrdN1_rujDBKDbHq5tnkL9PEG_QouN_Q&rid=3b712cf5-f069-11f0-80d2-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&st=330&mp4=1&h2=9wzff96wq924ryHk_jrwXHWYH-RUCLHwy761cwR7jZ21rzEWQZezd-64DXb6fFOmqmf1OtWayl1x7Szqeum7nQ**&muid=q0dDmcOTKmi2
+            - generic [ref=f14e9]:
+              - link [ref=f14e11]:
+                - /url: https://clck.mgid.com/ghits/25832600/i/58092113/0/pp/1/1?h=lH4ReHej-ZfLNxL9skDVJqQephaj6NHBzD2HRvD7NDNptjLPqK_vHVWWY0S939XLrfjeeaoF3UDB7HIBjRtuRPzZp_SdmgQNbrdN1_rujDBKDbHq5tnkL9PEG_QouN_Q&rid=3b712cf5-f069-11f0-80d2-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&st=330&mp4=1&h2=9wzff96wq924ryHk_jrwXHWYH-RUCLHwy761cwR7jZ21rzEWQZezd-64DXb6fFOmqmf1OtWayl1x7Szqeum7nQ**&muid=q0dDmcOTKmi2
+              - generic [ref=f14e14]:
+                - link "Diabetes Gone Forever! Do This Before You Sleep" [ref=f14e16]:
+                  - /url: https://clck.mgid.com/ghits/25832600/i/58092113/0/pp/1/1?h=lH4ReHej-ZfLNxL9skDVJqQephaj6NHBzD2HRvD7NDNptjLPqK_vHVWWY0S939XLrfjeeaoF3UDB7HIBjRtuRPzZp_SdmgQNbrdN1_rujDBKDbHq5tnkL9PEG_QouN_Q&rid=3b712cf5-f069-11f0-80d2-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&st=330&mp4=1&h2=9wzff96wq924ryHk_jrwXHWYH-RUCLHwy761cwR7jZ21rzEWQZezd-64DXb6fFOmqmf1OtWayl1x7Szqeum7nQ**&muid=q0dDmcOTKmi2
+                - link "Diabetic Support" [ref=f14e18]:
+                  - /url: https://clck.mgid.com/ghits/25832600/i/58092113/0/pp/1/1?h=lH4ReHej-ZfLNxL9skDVJqQephaj6NHBzD2HRvD7NDNptjLPqK_vHVWWY0S939XLrfjeeaoF3UDB7HIBjRtuRPzZp_SdmgQNbrdN1_rujDBKDbHq5tnkL9PEG_QouN_Q&rid=3b712cf5-f069-11f0-80d2-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&st=330&mp4=1&h2=9wzff96wq924ryHk_jrwXHWYH-RUCLHwy761cwR7jZ21rzEWQZezd-64DXb6fFOmqmf1OtWayl1x7Szqeum7nQ**&muid=q0dDmcOTKmi2
+                - link [ref=f14e19]:
+                  - /url: https://clck.mgid.com/ghits/25832600/i/58092113/0/pp/1/1?h=lH4ReHej-ZfLNxL9skDVJqQephaj6NHBzD2HRvD7NDNptjLPqK_vHVWWY0S939XLrfjeeaoF3UDB7HIBjRtuRPzZp_SdmgQNbrdN1_rujDBKDbHq5tnkL9PEG_QouN_Q&rid=3b712cf5-f069-11f0-80d2-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&st=330&mp4=1&h2=9wzff96wq924ryHk_jrwXHWYH-RUCLHwy761cwR7jZ21rzEWQZezd-64DXb6fFOmqmf1OtWayl1x7Szqeum7nQ**&muid=q0dDmcOTKmi2
+                  - img [ref=f14e20]
+    - contentinfo [ref=e142]:
+      - generic [ref=e143]: © 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.
+```

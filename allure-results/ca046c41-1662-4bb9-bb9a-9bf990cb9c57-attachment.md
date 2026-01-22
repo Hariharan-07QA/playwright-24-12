@@ -1,0 +1,109 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - img "adplus-dvertising" [ref=e6] [cursor=pointer]
+    - iframe [ref=e9]:
+      - generic [ref=f5e6]:
+        - generic [ref=f5e8] [cursor=pointer]:
+          - link [ref=f5e10]:
+            - /url: https://clck.mgid.com/ghits/25777921/i/58092114/0/pp/1/10?h=QJ_FpXOa4Z2V3A7XoOKTzXw-TQJSf01HYiGzRWHh0VYVyJdOrbZXMMYwZb1vYB9xMAG2J2hBF3tjDqvlLr3-gvzZp_SdmgQNbrdN1_rujDAMZjdheVw8jKQ2hfZwdde7&rid=28ad9bdf-f069-11f0-909d-d404e676c2e0&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=q0d99iOoJri2&st=330&mp4=1&h2=9wzff96wq924ryHk_jrwXOXFVgKa0Xh-8dEktmBT5gW0S7QsOb4TyE5H_wq1CwLYjU_1fbRrLEPj5gJyupsd3w**
+          - generic [ref=f5e13]:
+            - link "This 1 Minute Morning Ritual Changed My Sugar Readings" [ref=f5e15]:
+              - /url: https://clck.mgid.com/ghits/25777921/i/58092114/0/pp/1/10?h=QJ_FpXOa4Z2V3A7XoOKTzXw-TQJSf01HYiGzRWHh0VYVyJdOrbZXMMYwZb1vYB9xMAG2J2hBF3tjDqvlLr3-gvzZp_SdmgQNbrdN1_rujDAMZjdheVw8jKQ2hfZwdde7&rid=28ad9bdf-f069-11f0-909d-d404e676c2e0&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=q0d99iOoJri2&st=330&mp4=1&h2=9wzff96wq924ryHk_jrwXOXFVgKa0Xh-8dEktmBT5gW0S7QsOb4TyE5H_wq1CwLYjU_1fbRrLEPj5gJyupsd3w**
+            - link "Diabetic Support" [ref=f5e17]:
+              - /url: https://clck.mgid.com/ghits/25777921/i/58092114/0/pp/1/10?h=QJ_FpXOa4Z2V3A7XoOKTzXw-TQJSf01HYiGzRWHh0VYVyJdOrbZXMMYwZb1vYB9xMAG2J2hBF3tjDqvlLr3-gvzZp_SdmgQNbrdN1_rujDAMZjdheVw8jKQ2hfZwdde7&rid=28ad9bdf-f069-11f0-909d-d404e676c2e0&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=q0d99iOoJri2&st=330&mp4=1&h2=9wzff96wq924ryHk_jrwXOXFVgKa0Xh-8dEktmBT5gW0S7QsOb4TyE5H_wq1CwLYjU_1fbRrLEPj5gJyupsd3w**
+        - generic [ref=f5e19] [cursor=pointer]:
+          - link [ref=f5e21]:
+            - /url: https://clck.mgid.com/ghits/25832600/i/58092114/0/pp/2/10?h=QJ_FpXOa4Z2V3A7XoOKTzfu010GShBh_quEhvuFbbww28w1qOIFMTMydg95KIi3zkR6pPbxeR4lucJU1GIXTgvzZp_SdmgQNbrdN1_rujDBRNFE7IfzcGS0VguLQNrf0&rid=28ad9bdf-f069-11f0-909d-d404e676c2e0&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=q0d99iOoJri2&st=330&mp4=1&h2=9wzff96wq924ryHk_jrwXOXFVgKa0Xh-8dEktmBT5gW0S7QsOb4TyE5H_wq1CwLYjU_1fbRrLEPj5gJyupsd3w**
+          - generic [ref=f5e24]:
+            - link "Diabetes Gone Forever! Do This Before You Sleep" [ref=f5e26]:
+              - /url: https://clck.mgid.com/ghits/25832600/i/58092114/0/pp/2/10?h=QJ_FpXOa4Z2V3A7XoOKTzfu010GShBh_quEhvuFbbww28w1qOIFMTMydg95KIi3zkR6pPbxeR4lucJU1GIXTgvzZp_SdmgQNbrdN1_rujDBRNFE7IfzcGS0VguLQNrf0&rid=28ad9bdf-f069-11f0-909d-d404e676c2e0&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=q0d99iOoJri2&st=330&mp4=1&h2=9wzff96wq924ryHk_jrwXOXFVgKa0Xh-8dEktmBT5gW0S7QsOb4TyE5H_wq1CwLYjU_1fbRrLEPj5gJyupsd3w**
+            - link "Diabetic Support" [ref=f5e28]:
+              - /url: https://clck.mgid.com/ghits/25832600/i/58092114/0/pp/2/10?h=QJ_FpXOa4Z2V3A7XoOKTzfu010GShBh_quEhvuFbbww28w1qOIFMTMydg95KIi3zkR6pPbxeR4lucJU1GIXTgvzZp_SdmgQNbrdN1_rujDBRNFE7IfzcGS0VguLQNrf0&rid=28ad9bdf-f069-11f0-909d-d404e676c2e0&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=q0d99iOoJri2&st=330&mp4=1&h2=9wzff96wq924ryHk_jrwXOXFVgKa0Xh-8dEktmBT5gW0S7QsOb4TyE5H_wq1CwLYjU_1fbRrLEPj5gJyupsd3w**
+  - generic [ref=e10]:
+    - banner [ref=e11]:
+      - link [ref=e12] [cursor=pointer]:
+        - /url: https://demoqa.com
+        - img [ref=e13]
+    - generic [ref=e16]:
+      - generic [ref=e19]:
+        - generic [ref=e22] [cursor=pointer]:
+          - generic [ref=e23]:
+            - img [ref=e25]
+            - text: Elements
+          - img [ref=e30]
+        - generic [ref=e36] [cursor=pointer]:
+          - generic [ref=e37]:
+            - img [ref=e39]
+            - text: Forms
+          - img [ref=e45]
+        - generic [ref=e49]:
+          - generic [ref=e51] [cursor=pointer]:
+            - generic [ref=e52]:
+              - img [ref=e54]
+              - text: Alerts, Frame & Windows
+            - img [ref=e59]
+          - list [ref=e64]:
+            - listitem [ref=e65] [cursor=pointer]:
+              - img [ref=e66]
+              - generic [ref=e68]: Browser Windows
+            - listitem [ref=e69] [cursor=pointer]:
+              - img [ref=e70]
+              - generic [ref=e72]: Alerts
+            - listitem [ref=e73] [cursor=pointer]:
+              - img [ref=e74]
+              - generic [ref=e76]: Frames
+            - listitem [ref=e77] [cursor=pointer]:
+              - img [ref=e78]
+              - generic [ref=e80]: Nested Frames
+            - listitem [ref=e81] [cursor=pointer]:
+              - img [ref=e82]
+              - generic [ref=e84]: Modal Dialogs
+        - generic [ref=e87] [cursor=pointer]:
+          - generic [ref=e88]:
+            - img [ref=e90]
+            - text: Widgets
+          - img [ref=e95]
+        - generic [ref=e101] [cursor=pointer]:
+          - generic [ref=e102]:
+            - img [ref=e104]
+            - text: Interactions
+          - img [ref=e109]
+        - generic [ref=e115] [cursor=pointer]:
+          - generic [ref=e116]:
+            - img [ref=e118]
+            - text: Book Store Application
+          - img [ref=e123]
+      - generic [ref=e127]:
+        - generic [ref=e128]:
+          - heading "Nested Frames" [level=1] [ref=e129]
+          - generic [ref=e130]: Sample Nested Iframe page. There are nested iframes in this page. Use browser inspecter or firebug to check out the HTML source. In total you can switch between the parent frame and the nested child frame.
+          - iframe [ref=e132]:
+            - generic [active] [ref=f20e1]:
+              - text: Parent frame
+              - iframe [ref=f20e2]:
+                - paragraph [ref=f23e2]: Child Iframe
+        - iframe [ref=e136]:
+          
+      - generic [ref=e141]:
+        - img "Build PlayWright tests with AI" [ref=e143] [cursor=pointer]
+        - iframe [ref=e146]:
+          - generic [ref=f14e7] [cursor=pointer]:
+            - link [ref=f14e8]:
+              - /url: https://clck.mgid.com/ghits/25832600/i/58092113/0/pp/1/11?h=9XXP-G-8qpmxD94QN1M8bKQephaj6NHBzD2HRvD7NDN2N-73y1FukSjAefr_w0rLkLapw-L3_dH54XVBzuB9dfzZp_SdmgQNbrdN1_rujDA96v7Y9BeJJtySLV-wQcOF&rid=293a6cef-f069-11f0-80c6-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&st=330&mp4=1&h2=9wzff96wq924ryHk_jrwXHWYH-RUCLHwy761cwR7jZ20S7QsOb4TyE5H_wq1CwLYBhFSjuUDJVNTGpYms8XYCQ**&muid=q0d99iOoJri2
+            - generic [ref=f14e9]:
+              - link [ref=f14e11]:
+                - /url: https://clck.mgid.com/ghits/25832600/i/58092113/0/pp/1/11?h=9XXP-G-8qpmxD94QN1M8bKQephaj6NHBzD2HRvD7NDN2N-73y1FukSjAefr_w0rLkLapw-L3_dH54XVBzuB9dfzZp_SdmgQNbrdN1_rujDA96v7Y9BeJJtySLV-wQcOF&rid=293a6cef-f069-11f0-80c6-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&st=330&mp4=1&h2=9wzff96wq924ryHk_jrwXHWYH-RUCLHwy761cwR7jZ20S7QsOb4TyE5H_wq1CwLYBhFSjuUDJVNTGpYms8XYCQ**&muid=q0d99iOoJri2
+              - generic [ref=f14e14]:
+                - link "Diabetes Gone Forever! Do This Before You Sleep" [ref=f14e16]:
+                  - /url: https://clck.mgid.com/ghits/25832600/i/58092113/0/pp/1/11?h=9XXP-G-8qpmxD94QN1M8bKQephaj6NHBzD2HRvD7NDN2N-73y1FukSjAefr_w0rLkLapw-L3_dH54XVBzuB9dfzZp_SdmgQNbrdN1_rujDA96v7Y9BeJJtySLV-wQcOF&rid=293a6cef-f069-11f0-80c6-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&st=330&mp4=1&h2=9wzff96wq924ryHk_jrwXHWYH-RUCLHwy761cwR7jZ20S7QsOb4TyE5H_wq1CwLYBhFSjuUDJVNTGpYms8XYCQ**&muid=q0d99iOoJri2
+                - link "Diabetic Support" [ref=f14e18]:
+                  - /url: https://clck.mgid.com/ghits/25832600/i/58092113/0/pp/1/11?h=9XXP-G-8qpmxD94QN1M8bKQephaj6NHBzD2HRvD7NDN2N-73y1FukSjAefr_w0rLkLapw-L3_dH54XVBzuB9dfzZp_SdmgQNbrdN1_rujDA96v7Y9BeJJtySLV-wQcOF&rid=293a6cef-f069-11f0-80c6-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&st=330&mp4=1&h2=9wzff96wq924ryHk_jrwXHWYH-RUCLHwy761cwR7jZ20S7QsOb4TyE5H_wq1CwLYBhFSjuUDJVNTGpYms8XYCQ**&muid=q0d99iOoJri2
+                - link [ref=f14e19]:
+                  - /url: https://clck.mgid.com/ghits/25832600/i/58092113/0/pp/1/11?h=9XXP-G-8qpmxD94QN1M8bKQephaj6NHBzD2HRvD7NDN2N-73y1FukSjAefr_w0rLkLapw-L3_dH54XVBzuB9dfzZp_SdmgQNbrdN1_rujDA96v7Y9BeJJtySLV-wQcOF&rid=293a6cef-f069-11f0-80c6-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&st=330&mp4=1&h2=9wzff96wq924ryHk_jrwXHWYH-RUCLHwy761cwR7jZ20S7QsOb4TyE5H_wq1CwLYBhFSjuUDJVNTGpYms8XYCQ**&muid=q0d99iOoJri2
+                  - img [ref=f14e20]
+    - contentinfo [ref=e147]:
+      - generic [ref=e148]: © 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.
+```

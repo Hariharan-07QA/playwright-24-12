@@ -11,6 +11,9 @@ test.beforeEach(async ({ page }) => {
     await loginpage.valid_login();
 });
 
-test('verify that able to add account through quick action', async ({ page }) => {
-    // your test here
+test.only('verify that able to add account through quick action', async ({ page }) => {
+    await homepage.add_account_quick.click();
+    await homepage.account_name_txt_box.fill("Savings account");
+    page.pause();
+    await homepage.accout_type_dropdown;
 });
